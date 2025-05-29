@@ -1,6 +1,6 @@
 # ChatGPT 中文版：国内直接使用指南及镜像网站分享（支持 GPT-4o 和 o1）【2025年3月 更新】
 
->更新时间: 2025-03-16
+>更新时间: 2025-05-29
 
 想要了解如何在国内使用 ChatGPT 中文版，我来给你全面讲讲，包括一些不需要科学的镜像网站推荐，让你快速上手。
 
@@ -14,8 +14,8 @@ ChatGPT 中文版是 OpenAI 专为中文用户优化的版本，能提供更顺�
 ### 国内推荐的 ChatGPT 镜像网站
 这些都是经过筛选的优质网站，让你在国内也能高效体验 ChatGPT 中文版：
 
-1. [易下 AI](https://www.yixiaai.com/) - 已运营近2年，支持 GPT-4、4o 和 o1，还有 AI 绘画功能，扫码就能用。
-2. [Chat Lify](https://chat.lify.vip/) - 运营近2年，支持 GPT-4、4o 和 o1，还有 AI 文件、PPT、AI 助手和思维导图等功能。
+1. [易下 AI](https://xsimplechat.com/) - 已运营近2年，支持 GPT-4、4o 和 o1，还有 AI 绘画功能，扫码就能用。
+2. [Chat Lify](https://chat.lanjing.pro/) - 运营近2年，支持 GPT-4、4o 和 o1，还有 AI 文件、PPT、AI 助手和思维导图等功能。
 3. [蓝晶 AI](https://guide1.lanjing.ai/) - 运营1年多，支持 GPT-4、4o，也有 AI 绘画（比如 Midjourney 和 Dall·E ）。
 4. [蓝色鲸鱼](https://ai.lansejingyu.com/) - 专注 GPT-4 和 4o，操作简单方便。
 5. [蓝晶](https://lanjing.ai/) - 免费的 ChatGPT，支持 GPT-4、4o，还支持 MJ 绘画。
@@ -33,7 +33,7 @@ ChatGPT 中文版是 OpenAI 专为中文用户优化的版本，能提供更顺�
 **总结：** 想在国内用 ChatGPT，推荐使用上面的这些中文版镜像网站。
 
 ### 如何使用 ChatGPT 中文版（详细教程）
-1. 选择上面的一个网址，比如：[Chat Lify](https://chat.lify.vip/)。
+1. 选择上面的一个网址，比如：[Chat Lanjing](https://chat.lanjing.pro/)。
 2. 在左上角，点击“登录”。你也可以直接提问。
 3. 会弹出一个二维码，用微信扫一扫即可登录。
 
