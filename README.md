@@ -1,6 +1,6 @@
-# ChatGPT 中文版：国内直接使用指南及镜像网站分享（支持 GPT-4o 和 o1）【2025年8月 更新】
+# ChatGPT 中文版：国内直接使用指南及镜像网站分享（支持 GPT-4o 和 o1）【2025年9月 更新】
 
->更新时间: 2025-08-04
+>更新时间: 2025-09-19
 
 想要了解如何在国内使用 ChatGPT 中文版，我来给你全面讲讲，包括一些不需要科学的镜像网站推荐，让你快速上手。
 
@@ -14,18 +14,18 @@ ChatGPT 中文版是 OpenAI 专为中文用户优化的版本，能提供更顺�
 ### 国内推荐的 ChatGPT 镜像网站
 这些都是经过筛选的优质网站，让你在国内也能高效体验 ChatGPT 中文版：
 
-1. [易下 AI](https://xsimplechat.com/) - 已运营近2年，支持 GPT-4、4o 和 o1，还有 AI 绘画功能，扫码就能用。
-2. [Chat Lify](https://chat.lanjingai.org/) - 运营近2年，支持 GPT-4、4o 和 o1，还有 AI 文件、PPT、AI 助手和思维导图等功能。
-3. [蓝晶 AI](https://guide1.lanjing.ai/) - 运营1年多，支持 GPT-4、4o，也有 AI 绘画（比如 Midjourney 和 Dall·E ）。
+1. [易下 AI](https://xsimplechat.com/) - 已运营近2年，支持 GPT-5、4o 和 o1，还有 AI 绘画功能，扫码就能用。
+2. [Chat Lify](https://ai.lanjingai.org/) - 运营近2年，支持 GPT-5、4o 和 o1，还有 AI 文件、PPT、AI 助手和思维导图等功能。
+3. [蓝晶 AI](https://guide1.lanjing.ai/) - 运营1年多，支持 GPT-5、4o，也有 AI 绘画（比如 Midjourney 和 Dall·E ）。
 4. [蓝色鲸鱼](https://ai.lansejingyu.com/) - 专注 GPT-4 和 4o，操作简单方便。
-5. [蓝晶](https://lanjing.ai/) - 免费的 ChatGPT，支持 GPT-4、4o，还支持 MJ 绘画。
+5. [蓝晶](https://lanjing.ai/) - 免费的 ChatGPT，支持 GPT-5、4o，还支持 MJ 绘画。
 
 ### ChatGPT 官网与中文版的区别
 | 对比项 | ChatGPT 官网 | ChatGPT 中文版（镜像网站） |
 | ------ | ------------- | -------------------------- |
 | 访问方式 | 需要翻墙 | 不需要，国内就能用 |
 | 语言支持 | 多语言（包括中文，但优化不足） | 专注中文，更精准 |
-| 功能支持 | 支持 GPT-4、4o、o1 | 支持全模型，还有扩展功能 |
+| 功能支持 | 支持 GPT-5、4o、o1 | 支持全模型，还有扩展功能 |
 | 使用限制 | 4o（3小时80次）、o1（1周50次） | 使用无上线 |
 | 免费使用 | 免费额度有限，要买付费套餐 | 部分镜像站提供免费使用 |
 | 注册流程 | 需要海外手机号或邮箱 | 扫码或手机号登录，更方便 |
@@ -33,7 +33,7 @@ ChatGPT 中文版是 OpenAI 专为中文用户优化的版本，能提供更顺�
 **总结：** 想在国内用 ChatGPT，推荐使用上面的这些中文版镜像网站。
 
 ### 如何使用 ChatGPT 中文版（详细教程）
-1. 选择上面的一个网址，比如：[Chat Lanjing](https://chat.lanjingai.org/)。
+1. 选择上面的一个网址，比如：[Chat Lanjing](https://ai.lanjingai.org/)。
 2. 在左上角，点击“登录”。你也可以直接提问。
 3. 会弹出一个二维码，用微信扫一扫即可登录。
 
